@@ -30,7 +30,13 @@ The columns do not seem to have correlations with each other , and seem to have 
 ![image](https://github.com/user-attachments/assets/51adba6a-60c9-4e34-8ff8-db74b2bbea09)
 ![image](https://github.com/user-attachments/assets/ce8937c4-b813-4935-9ccf-1c2f3785feb3)
 
+A plot between different columns and amount along with different colours for target variable show that our output classes are separable by linear boundary even in case of graphing variables alone , hence LOGISTIC REGRESSION will help separate the multivariable data into 2 classes .
+### Class Imbalance in dataset :
 
+his shows that we have way way less data for fraud cases than for non fraud cases , which is expected from the dataset .
+
+To cure imbalance , we can use undersampling or oversampling . Here , I have decided to use Undersampling.
+![image](https://github.com/user-attachments/assets/d61533c7-abee-42b4-8bbc-912bd6abffe8)
 
 
 
