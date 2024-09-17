@@ -36,7 +36,17 @@ A plot between different columns and amount along with different colours for tar
 his shows that we have way way less data for fraud cases than for non fraud cases , which is expected from the dataset .
 
 To cure imbalance , we can use undersampling or oversampling . Here , I have decided to use Undersampling.
-![image](https://github.com/user-attachments/assets/d61533c7-abee-42b4-8bbc-912bd6abffe8)
+![image](https://github.com/user-attachments/assets/d61533c7-abee-42b4-8bbc-912bd6abffe8)  
+![image](https://github.com/user-attachments/assets/b293c459-e98e-404d-aa46-cac498ea4867)
+### Training the Model:
+![image](https://github.com/user-attachments/assets/83d64437-69f2-4996-857d-f670d60ca5c4)  
+![image](https://github.com/user-attachments/assets/41120916-134a-444c-8507-263c2624597d)
+- Here Logistic Regression has the highest accuracy on the training set. Others models are also not behind it
+![image](https://github.com/user-attachments/assets/ac08364b-ae7b-4bcf-a610-d43b0253d0bf)
+
+
+
+
 
 
 
